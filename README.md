@@ -17,7 +17,7 @@ This repository is a collection of AWS projects designed to enhance cloud comput
 ## 🚀 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/aws-projects.git
+   [git clone https://github.com/panche20/aws-cloud-engineering.git]
    ```
 2. Navigate to a project folder and follow the setup instructions in its **README.md**.
 3. Deploy the infrastructure and run the project.
